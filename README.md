@@ -31,7 +31,7 @@
 - 本中文教程将在 **星宸药研** GitHub 仓库保存: [https://github.com/stardrug-c01/Deepchem-Chinese](https://github.com/stardrug-c01/Deepchem-Chinese)
 - 你也可以关注我们微信公众号：**星宸药研** 获取更多资源。
 
-![公众号二维码]([./星宸药研.png))
+![星宸药研](./星宸药研.png)
 
 ## 参与贡献
 
