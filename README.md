@@ -31,6 +31,13 @@
 - 本中文教程将在 **星宸药研** GitHub 仓库保存: [https://github.com/stardrug-c01/Deepchem-Chinese](https://github.com/stardrug-c01/Deepchem-Chinese)
 - 你也可以关注我们微信公众号：**星宸药研** 获取更多资源。
 
+## 版权声明
+Copyright 2017 PandeLab
+## 许可证
+该项目使用MIT许可证。详细许可内容请见Deepchem [MIT License](https://github.com/deepchem/deepchem/blob/master/LICENSE)。
+
+
+
 ![星宸药研](./星宸药研.png)
 
 ## 参与贡献
