@@ -33,6 +33,9 @@
 
 ## 版权声明
 Copyright 2017 PandeLab
+若您使用Deepchem相关代码，请记得引用他们的工作!
+"Deep Learning for the Life Sciences" by Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande, Karl Leswing, and Zhenqin Wu, published by O'Reilly Media in 2019.
+https://www.amazon.com/Deep-Learning-Life-Sciences-Microscopy/dp/1492039837
 ## 许可证
 该项目使用MIT许可证。详细许可内容请见Deepchem [MIT License](https://github.com/deepchem/deepchem/blob/master/LICENSE)。
 
