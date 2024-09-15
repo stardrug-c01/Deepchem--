@@ -38,9 +38,10 @@ Copyright 2017 PandeLab
 
 
 
-![星宸药研](./星宸药研.png)
 
 ## 参与贡献
 
 如果你有任何问题或建议，欢迎提交 [Issue](https://github.com/stardrug-c01/Deepchem-Chinese/issues) 或 [Pull Request](https://github.com/stardrug-c01/Deepchem-Chinese/pulls)。你的反馈对我们非常重要！
+
+![星宸药研](./星宸药研.png)
 
